@@ -2,6 +2,6 @@
 
 ## Linguagens utilizadas
 
--Html 5
--Css 3
--JavaScript
+- Html 5
+- Css 3
+- JavaScript
